@@ -12,16 +12,17 @@ A first-person shooter built in Unity as a personal high school project, develop
 
 ## Overview
 
-Brano: Pact With The Devil is a voxel-style FPS game featuring multiple levels, AI-driven enemies with NavMesh pathfinding, physics-based interactions, and a custom UI. The game includes a main menu with options, credits, and multiple playable scenes.
+Brano: Pact With The Devil is a voxel-style FPS game featuring AI-driven enemies with NavMesh pathfinding, physics-based interactions, and a custom UI. The game focuses on combat mechanics, resource management, and navigation within the game environment.
 
 ## Features
 
-- First-person shooter mechanics
-- Multiple game levels (4 scenes)
+- Fast-paced first-person shooter mechanics
+- Enemy combat system (shootable AI)
+- Multiple weapon types
+- Health pack system for resource management
 - AI enemy pathfinding (Unity NavMesh)
 - Physics-based gameplay
 - Custom UI with TextMeshPro
-- Timeline-driven sequences
 - Audio and music integration
 
 ## Technology
