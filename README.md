@@ -29,10 +29,21 @@ Brano: Pact With The Devil is a voxel-style FPS game featuring AI-driven enemies
 
 | Component   | Details                                     |
 | ----------- | ------------------------------------------- |
-| Engine      | Unity                                       |
+| Engine      | Unity 2022.3.62f3                           |
 | Language    | C#                                          |
 | Platform    | Windows x64                                 |
 | Key modules | NavMesh, TextMeshPro, Timeline, Physics, UI |
+
+## Requirements
+
+- **Unity 2022.3.62f3** or newer (LTS recommended)
+- **Git** (for cloning)
+
+## Getting Started
+
+1. Clone this repository: `git clone https://github.com/Dedeusz04/BranoPactWithTheDevil.git`
+2. Open the project in Unity 2022.3.
+3. If some large textures are missing due to GitHub's file size limits, check the `.gitignore` and ensure all assets are correctly imported.
 
 ## Project Structure
 

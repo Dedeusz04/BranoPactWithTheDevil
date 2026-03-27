@@ -9,12 +9,15 @@ EditorBuildSettings:
     path: Assets/intro.unity
     guid: b48798c14490fbb4d8ee0618df8d2405
   - enabled: 1
-    path: "Assets/Przegra\u0142e\u015B.unity"
-    guid: 1660484e20efa4a42a7420936d1c4f99
-  - enabled: 1
     path: Assets/Menu.unity
     guid: b73b87084273d704cba481808d54dfc7
+  - enabled: 0
+    path: Assets/pieklo.unity
+    guid: 2e2275b34ab75114888626db15cb4e2a
   - enabled: 1
     path: Assets/Gra.unity
     guid: 37093669266078d4f83b637182f0842a
+  - enabled: 1
+    path: "Assets/Przegra\u0142e\u015B.unity"
+    guid: b46762996f5b1994ebc529dcd1fe318a
   m_configObjects: {}

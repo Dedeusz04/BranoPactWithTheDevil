@@ -54,3 +54,7 @@ Zrzut ekranu*.png
 # Large files exceeding GitHub 100MB limit
 Assets/GrassUV02.png
 Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/GrassUV02.png
+
+test/
+[Bb]uild/
+[Bb]uilds/
