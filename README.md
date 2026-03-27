@@ -43,7 +43,12 @@ Brano: Pact With The Devil is a voxel-style FPS game featuring AI-driven enemies
 
 1. Clone this repository: `git clone https://github.com/Dedeusz04/BranoPactWithTheDevil.git`
 2. Open the project in Unity 2022.3.
-3. If some large textures are missing due to GitHub's file size limits, check the `.gitignore` and ensure all assets are correctly imported.
+
+## Play the Game (Build)
+
+If you don't have Unity installed, you can play the latest version of the game directly from the `test/` folder:
+1. Navigate to the `test/` directory.
+2. Run `Gra.exe`.
 
 ## Project Structure
 
