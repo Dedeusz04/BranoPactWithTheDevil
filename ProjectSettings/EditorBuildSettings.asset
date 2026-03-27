@@ -11,13 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: b73b87084273d704cba481808d54dfc7
-  - enabled: 0
-    path: Assets/Scenes/pieklo.unity
-    guid: 2e2275b34ab75114888626db15cb4e2a
   - enabled: 1
     path: Assets/Scenes/Gra.unity
     guid: 37093669266078d4f83b637182f0842a
-  - enabled: 1
+  - enabled: 0
     path: "Assets/Scenes/Przegra\u0142e\u015B.unity"
     guid: b46762996f5b1994ebc529dcd1fe318a
+  - enabled: 1
+    path: Assets/Scenes/Przegrales.unity
+    guid: 31682d413d789d841b3db2f646759f80
   m_configObjects: {}

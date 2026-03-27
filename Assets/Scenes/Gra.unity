@@ -31369,7 +31369,7 @@ MonoBehaviour:
   obrazenia: 60
   zasieg: 100
   impactForce: 30
-  fpscam: {fileID: 0}
+  fpscam: {fileID: 1087105441}
   Particle: {fileID: 688283781}
   Efekt2: {fileID: 0}
   strzel: {fileID: 2033015122}
